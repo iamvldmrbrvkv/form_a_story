@@ -1,5 +1,5 @@
 # form_a_story
-Codeacademy's JavaScript project.
+Codecademy's JavaScript project.
 
 Form a Story
 
